@@ -90,6 +90,7 @@
                         <outlet property="bitCoinLabel" destination="wPn-Q5-HTS" id="PiC-SV-0CS"/>
                         <outlet property="currencyLabel" destination="wPn-Q5-HTS" id="8oN-rM-rzL"/>
                         <outlet property="currencyPicker" destination="IPx-WT-VW5" id="dfH-hg-Ck0"/>
+                        <outlet property="quoteLabel" destination="6jY-5W-UkQ" id="N0w-39-sNM"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
